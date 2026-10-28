@@ -11,21 +11,20 @@
 cff-version: "1.2.0"
 type: software
 
-title: Web Mining and Applied NLP 01 Getting Started
-date-released: "2026-03-06"
+title: Web Mining and Applied NLP 02 Text Preprocessing
+date-released: "2026-10-28"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
-    orcid: "https://orcid.org/0000-0001-6165-7389"
+  - family-names: Heyert
+    given-names: Alexanndra J.
     affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/nlp-02-text-preprocessing"
-url: "https://github.com/denisecase/nlp-02-text-preprocessing"
+repository-code: "https://github.com/ajaneh/nlp-02-text-preprocessing-custom"
+url: "https://github.com/ajaneh/nlp-02-text-preprocessing-custom"
 license: MIT
 
 abstract: |
-  Web Mining and Applied NLP Example Project 1 - Getting started with
+  Web Mining and Applied NLP Example Project 2 - Text Preprocessing
   professional Python project structure and workflows.
 
 keywords:

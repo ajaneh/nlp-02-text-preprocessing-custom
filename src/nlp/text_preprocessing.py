@@ -1,5 +1,6 @@
 """text_preprocessing.py - Project script (example).
 
+Alex Heyert 10-2026
 Purpose
 
   Read text data, preprocess the text, compare raw and cleaned tokens,

@@ -1,5 +1,6 @@
 """NLP package.
 
+Alex Heyert 10-2026.
 This file can be left empty; it just has to exist.
 
 By adding a file named __init__.py to a folder,
