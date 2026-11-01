@@ -3,8 +3,13 @@
 ## Project Overview
 
 - **Author:** Alex Heyert
-- **Date:** 2026 October
+- **Date:** 2026 November
 
+A dataset of reviews (1-5) and corresponding review text was obtained from [Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
+
+The first change was to read the new datafile into a polars dataframe
+
+This prokect tokenizes the review text to see if there are word patterns attributed with higher or lower ratings.
 TODO — describe what the custom project does and which problem was chosen.
 
 ## Project Commands
